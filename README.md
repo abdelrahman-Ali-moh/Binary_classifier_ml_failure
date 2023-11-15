@@ -6,7 +6,7 @@ The goal of this project was to predict targetes variable using a linear regress
 Machine failure was chosen with the assumption that a linear relationship exists between the features and the target variable.
 # Methodology
 # Data Preprocessing
-* Data Cleaning: The initial dataset required cleaning due to [specify issues such as missing values, outliers, etc.].
-Feature Engineering: [Describe any feature engineering steps taken to enhance the dataset for linear regression].
+* Data Cleaning: The initial dataset required cleaning due to clear missing values.
+Feature Engineering: selected columns after correlation data to know specific columns to trained it.
 # Model Training
 Linear Regression Model: The choice of a linear regression model was based on the assumption that a linear relationship exists between the features and the target variable.
