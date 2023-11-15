@@ -10,3 +10,7 @@ Machine failure was chosen with the assumption that a linear relationship exists
 Feature Engineering: selected columns after correlation data to know specific columns to trained it.
 # Model Training
 Linear Regression Model: The choice of a linear regression model was based on the assumption that a linear relationship exists between the features and the target variable.
+# Sample code for linear regression
+from sklearn.linear_model import LinearRegression
+model = LinearRegression()
+model.fit(X_train, y_train)
