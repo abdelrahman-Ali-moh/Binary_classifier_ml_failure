@@ -8,5 +8,5 @@ Machine failure was chosen with the assumption that a linear relationship exists
 # Data Preprocessing
 * Data Cleaning: The initial dataset required cleaning due to [specify issues such as missing values, outliers, etc.].
 Feature Engineering: [Describe any feature engineering steps taken to enhance the dataset for linear regression].
-Model Training
+# Model Training
 Linear Regression Model: The choice of a linear regression model was based on the assumption that a linear relationship exists between the features and the target variable.
